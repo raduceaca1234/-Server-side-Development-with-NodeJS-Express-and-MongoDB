@@ -1,6 +1,9 @@
 # Server-side-Development-with-NodeJS-Express-and-MongoDB
 NodeJs, Express and MongoDB
 
+## Find the course here:
+* https://www.coursera.org/learn/server-side-nodejs/home/
+
 ## WEEK 1
 ### Introduction to Server-side Development
 In this module you will be introduced to Node, Node modules and the Node HTTP server. You will learn about the Express framework and how to set up a REST API using Express.
@@ -25,5 +28,3 @@ In this module we learn about Mongoose population, a way of cross-referencing do
 ## NOTE:
 For ASSIGNMENT 4...setup an App by going to https://developers.facebook.com/apps/ and register your app by following the instructions there and obtain your App ID and App Secret. Then Paste the App ID in public/index.html and both the ID and Secret in config.js.Also for certificate.pem & private.key https://helpcenter.gsx.com/hc/en-us/articles/115015960428-How-to-Generate-a-Self-Signed-Certificate-and-Private-Key-using-OpenSSL .Generate the keys and paste it in bin folder.
 
-## Find the course here:
-* https://www.coursera.org/learn/server-side-nodejs/home/
